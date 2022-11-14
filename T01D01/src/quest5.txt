@@ -1,0 +1,2 @@
+nano door_management_files/door_configuration/door_1.conf
+Изменил CLOSED на OPEN
